@@ -2,7 +2,7 @@
 
 A sophisticated Sudoku application built with modern web technologies that combines an elegant user interface with powerful solving algorithms. Features multiple difficulty levels, real-time validation, and an advanced implementation of Donald Knuth's Dancing Links algorithm.
 
-[Live Demo]()
+[Live Demo](https://sudoku-master.vercel.app/)
 
 ## Key Features
 
