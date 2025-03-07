@@ -129,7 +129,7 @@ sudoku-master/
 
 2. **Navigate to the project directory**
    ```bash
-   cd zerodha-frontend-clone
+   cd sudoku-master
    ```
 
 3. **Install dependencies**
